@@ -1,0 +1,54 @@
+body {
+background-color: black;
+color: white;
+text-align: center;
+font-family: "amita" , cursive;
+}
+
+#header {
+    width: 710px;
+    margin: auto;
+    height: 120px;
+    border-style: solid;
+    border-width: 4px;
+    border-color: white;
+    border-radius: 15px;
+    
+}
+
+.main-header{
+font-family: "megrim" , cursive ;
+text-align: center;
+font-size: 56px;
+padding-top: 25px;
+margin: auto;
+width: 650px;
+
+}
+
+.second-header {
+    margin: auto;
+    background-color: black;
+    width: 460px;
+    padding-top: 5px;
+}
+
+#instructions{
+    width: 650px;
+    margin: auto;
+    height: 100px;
+    margin-top: 30px;
+}
+
+
+.instruction-text {
+    font-size: 16px;
+    text-align: center;
+}
+
+.image {
+    font-size: 500px;
+}
+
+
+
